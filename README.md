@@ -73,7 +73,7 @@ Map<String, BufferedImage> map = Icode.createImageCode(properties);
 ```
 
 效果图
-
+![image](https://github.com/smallpawpaw/identifying-code/blob/master/example1.JPG)
 ### 示例2-随机色验证码
 
 imgcode.properties
@@ -99,3 +99,4 @@ interfereRadius=0
 ```
 
 效果图
+![image](https://github.com/smallpawpaw/identifying-code/blob/master/example2.JPG)
